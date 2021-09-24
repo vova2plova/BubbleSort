@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortFromFSharp", "..\BubbleSortFromFSharp\BubbleSortFromFSharp.csproj", "{BB4F5373-1160-4440-A9A0-DE0DDFE5A3D5}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BubbleSort", "..\BubbleSort\BubbleSort.fsproj", "{5F203B62-7846-48F0-B274-0FAC7BCA511D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4F5373-1160-4440-A9A0-DE0DDFE5A3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4F5373-1160-4440-A9A0-DE0DDFE5A3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4F5373-1160-4440-A9A0-DE0DDFE5A3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4F5373-1160-4440-A9A0-DE0DDFE5A3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F203B62-7846-48F0-B274-0FAC7BCA511D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F203B62-7846-48F0-B274-0FAC7BCA511D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F203B62-7846-48F0-B274-0FAC7BCA511D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F203B62-7846-48F0-B274-0FAC7BCA511D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437C881B-037D-4BDB-948C-0CEF05B1F88F}
+	EndGlobalSection
+EndGlobal

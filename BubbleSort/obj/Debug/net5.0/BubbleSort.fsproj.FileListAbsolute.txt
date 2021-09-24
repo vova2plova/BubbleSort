@@ -1,0 +1,9 @@
+D:\VS\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+D:\VS\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+D:\VS\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+D:\VS\BubbleSort\bin\Debug\net5.0\BubbleSort.xml
+D:\VS\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+D:\VS\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.fs
+D:\VS\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+D:\VS\BubbleSort\obj\Debug\net5.0\BubbleSort.xml
+D:\VS\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb

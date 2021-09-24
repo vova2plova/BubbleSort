@@ -1,0 +1,10 @@
+D:\VS\BubbleSortFSharp\obj\Debug\net5.0\BubbleSortFSharp.fsproj.AssemblyReference.cache
+D:\VS\BubbleSortFSharp\obj\Debug\net5.0\BubbleSortFSharp.AssemblyInfoInputs.cache
+D:\VS\BubbleSortFSharp\obj\Debug\net5.0\BubbleSortFSharp.AssemblyInfo.fs
+D:\VS\BubbleSortFSharp\bin\Debug\net5.0\BubbleSortFSharp.deps.json
+D:\VS\BubbleSortFSharp\bin\Debug\net5.0\BubbleSortFSharp.dll
+D:\VS\BubbleSortFSharp\bin\Debug\net5.0\BubbleSortFSharp.pdb
+D:\VS\BubbleSortFSharp\bin\Debug\net5.0\BubbleSortFSharp.xml
+D:\VS\BubbleSortFSharp\obj\Debug\net5.0\BubbleSortFSharp.dll
+D:\VS\BubbleSortFSharp\obj\Debug\net5.0\BubbleSortFSharp.xml
+D:\VS\BubbleSortFSharp\obj\Debug\net5.0\BubbleSortFSharp.pdb

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BubbleSort\BubbleSort.fsproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BubbleSort">
+      <HintPath>..\BubbleSort\bin\Debug\net5.0\BubbleSort.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

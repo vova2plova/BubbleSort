@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNKyWXBJ6XZKGUYIBafFDoL0OqV39x534i8Sofk8T7iscACHQUoFkv3mO96aV7r/BAmtwnbL6i715cDuFqoC4A==",
+  "success": true,
+  "projectFilePath": "D:\\VS\\BubbleSortFSharp\\BubbleSortFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
